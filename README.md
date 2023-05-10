@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **RLC website**
 
-- 👨‍💻 All of my projects are available at [github.com/Iceiams](github.com/Iceiams)
+- 👨‍💻 All of my projects are available at [(https://github.com/meitr71)](github.com/Iceiams)
 
 - 💬 Ask me about **Anything you want**
 
