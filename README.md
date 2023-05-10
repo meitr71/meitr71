@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👋, I'm I'm Mai - I'm a student at FPT University</h1>
+<h1 align="center">Hi there!👋, I'm Mai</h1>
 <h3 align="center">DO WHAT YOU LOVE, LOVE WHAT YOU DO 🌷</h3>
 
 - 🌱 I’m currently learning **ReactJS**
