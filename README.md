@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **CLR website**
+- 👯 I’m looking to collaborate on **RLC website**
 
 - 👨‍💻 All of my projects are available at [github.com/Iceiams](github.com/Iceiams)
 
